@@ -1,49 +1,49 @@
 @font-face {
     font-family: 'Comfortaa';
     font-weight: 400;
-    src: url(/src/assets/fonts/Comfortaa/static/Comfortaa-Regular.ttf);
+    src: url(/fonts/Comfortaa.zip);
 }
 
 @font-face {
     font-family: 'Comfortaa';
     font-weight: 700;
-    src: url(/src/assets/fonts/Comfortaa/static/Comfortaa-Bold.ttf);
+    src: url(/fonts/Comfortaa.zip);
 }
 
 @font-face {
     font-family: 'Nunito';
     font-weight: 700;
-    src: url(/src/assets/fonts/Nunito/static/Nunito-Bold.ttf);
+    src: url(/fonts/Nunito.zip);
 }
 
 @font-face {
     font-family: 'Nunito';
     font-weight: 600;
-    src: url(/src/assets/fonts/Nunito/static/Nunito-SemiBold.ttf);
+    src: url(/fonts/Nunito.zip);
 }
 
 @font-face {
     font-family: 'Nunito';
     font-weight: 400;
-    src: url(/src/assets/fonts/Nunito/static/Nunito-Regular.ttf);
+    src: url(/fonts/Nunito.zip);
 }
 
 @font-face {
     font-family: 'Playfair Display';
     font-weight: 700;
-    src: url(/src/assets/fonts/Playfair_Display/static/PlayfairDisplay-Bold.ttf);
+    src: url(/fonts/Playfair_Display.zip);
 }
 
 @font-face {
     font-family: 'Raleway';
     font-weight: 500;
-    src: url(/src/assets/fonts/Raleway/static/Raleway-Medium.ttf);
+    src: url(/fonts/Raleway.zip);
 }
 
 @font-face {
     font-family: 'Roboto';
     font-weight: 500;
-    src: url(/src/assets/fonts/Roboto/static/Roboto-Medium.ttf);
+    src: url(/fonts/Roboto.zip);
 }
 
 .footer__decor {
@@ -243,7 +243,7 @@ section {
     outline-width: 0px;
 }
 
-.card_direction_reserve {
+.card_direction_reverse {
     flex-direction: row-reverse;
 }
 
@@ -280,7 +280,6 @@ section {
     max-width: 600px;
     margin-bottom: 20px;
 }
-
 
 .footer {
     position: absolute;
